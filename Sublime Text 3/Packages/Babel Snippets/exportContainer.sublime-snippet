@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+export $0Container from './$0/$0Container'
+]]></content>
+    <tabTrigger>ect</tabTrigger>
+    <scope>source.js</scope>
+    <description>export { ... }Container from './{ ... }/{ ... }Container' </description>
+</snippet>
